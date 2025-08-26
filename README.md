@@ -1,4 +1,5 @@
 # From ENIAC to C#: Rebuilding WWII Artillery Firing Tables
+![Project Cover](cover.png)
 
 **How a 30‑ton computer’s wartime mission can now run in milliseconds on a modern laptop**
 
